@@ -1,5 +1,0 @@
-auto
-car
-bus
-bike
-lory
